@@ -371,6 +371,7 @@
   <string name="estimated_shipping_time_description">您可以在该日期范围内收到订购的产品。此产品享有7天的保固期。</string>
   <string name="chat_with">聊天</string>
   <string name="price">价钱</string>
+  <string name="relevance">相关性</string>
   <string name="reservation_timer_value">保留将在{{counter}}中结束</string>
   <string name="reservation_timer_over">保留时间已经结束。请重新订购</string>
   <string name="locations">地点</string>
@@ -386,6 +387,12 @@
   <string name="text_and">与</string>
   <string name="text_privacy_policy">私隐政策</string>
   <string name="no_tags_matches">没有相符配对</string>
+  <string name="product_chat_search">按产品名称，用户搜索</string>
+  <string name="dispute_chat_search">按名称，ID搜索产品</string>
+  <string name="chats_search">搜索用户</string>
+  <string name="unavailable_blockchain">检测到与区块链相关的临时问题，请稍后再试。</string>
+  <string name="activate_account">通过点击发送给您的激活电子邮件中的链接來激活您的帐户。</string>
+  <string name="did_not_receive_email">如果您没有收到电子邮件，请使用下面的重新发送选项</string>
   <string-array name="wallets_page_titles">
     <item>内部转移</item>
     <item>外部钱包</item>

@@ -50,7 +50,7 @@
   <string name="text_choose_question">选择一个安全问题</string>
   <string name="text_introducer_details">介绍人详细资料</string>
   <string name="text_provide_info">提供个人资料</string>
-  <string name="text_terms_first">关于注册，您同意</string>
+  <string name="text_terms_first">我同意</string>
   <string name="text_terms_second">条款和声明</string>
   <string name="text_logging_in">登录</string>
   <string name="text_please_wait">请等待…</string>
@@ -106,7 +106,7 @@
   <string name="rating">评分</string>
   <string name="date">日期</string>
   <string name="forgot_password">忘记密码？</string>
-  <string name="settings_security">安全</string>
+  <string name="settings_security">保安密码</string>
   <string name="settings_faq">常见问题</string>
   <string name="settings_about_us">关于我们</string>
   <string name="settings_contact_us">联系我们</string>
@@ -150,7 +150,7 @@
   <string name="text_loading_conversation">正在加载对话</string>
   <string name="start_chat_with_admin">开始与管理人员聊天</string>
   <string name="message_not_implemented">无法显示此内容。请更新应用程式</string>
-  <string name="chat_admin_title">管理员</string>
+  <string name="chat_admin_title">管理</string>
   <string name="consumer">消费者</string>
   <string name="delete">删除</string>
   <string name="block">屏蔽</string>
