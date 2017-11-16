@@ -91,6 +91,7 @@
   <string name="menu_agents">代理</string>
   <string name="menu_news">新闻</string>
   <string name="menu_settings">设定</string>
+  <string name="menu_blockchain">区块链浏览器</string>
   <string-array name="main_screen_titles">
     <item>我的财富</item>
     <item>购物</item>
@@ -101,6 +102,7 @@
     <item>代理</item>
     <item>新闻</item>
     <item>设定</item>
+    <item>区块链浏览器</item>
   </string-array>
   <string name="search">搜索…</string>
   <string name="rating">评分</string>
@@ -393,6 +395,7 @@
   <string name="unavailable_blockchain">检测到与区块链相关的临时问题，请稍后再试。</string>
   <string name="activate_account">通过点击发送给您的激活电子邮件中的链接來激活您的帐户。</string>
   <string name="did_not_receive_email">如果您没有收到电子邮件，请使用下面的重新发送选项</string>
+  <string name="foreseen_system_shutdown_message">因近期系统需升级维护，免费购物车将暂停相关服务。具体实施日期预计为2017年11月16日左右。实施需时24小时至72小时。由此给您造成的不便，感谢您的谅解！</string>
   <string-array name="wallets_page_titles">
     <item>内部转移</item>
     <item>外部钱包</item>
